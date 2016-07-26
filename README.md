@@ -1,0 +1,2 @@
+# hsfun
+Fun with Haskell.
